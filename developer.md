@@ -6,8 +6,13 @@
 
 ## 회사 소개
 
-- [레진코믹스 - 한국일보](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=038&aid=0002445837)
-- 기타 보도자료
+- ["다음회가 너무 궁금해"… 모바일 웹툰, 지갑 열게 만들다 - [한국일보] ](http://news.hankooki.com/lpage/culture/201311/h2013113003381986330.htm)
+- [유료 웹툰 서비스' 성공 이끈 정부 협업 - [대한민국 정책브리핑] ](http://www.korea.kr/policy/cultureView.do?newsId=148770632&call_from=naver_news)
+- [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
+- [레진코믹스 "모바일로 웹툰 판 바꿀 것" - [블로터] ](http://www.bloter.net/archives/155771)
+- [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
+- [레진코믹스를 시작하며 by [레진엔터테인먼트 CEO 레진] ](http://lezhin.tistory.com/1072)
+- [새로운 시작을 합니다 - 레진코믹스 by [레진엔터테인먼트 CTO 구루] ](http://xguru.net/1362)
 
 저희 회사에 대해 조금 더 아시려면 [레진코믹스 - 매일 밤 12시를 기다리는 회사](http://xguru.net/1870) 글을 꼭 한번 읽어주세요.
 
@@ -78,6 +83,6 @@
 
 매달 놀라운 속도로 성장하고 있고, 해외 진출을 준비하고 있습니다.
 
-누구도 상상하지 못한 만화 서비스를 함께 만들어 나갈 개발자들의 많은 지원 바랍니다.
+**누구도 상상하지 못한 만화 서비스** 를 함께 만들어 나갈 개발자들의 많은 지원 바랍니다.
 
 “[로켓에 자리가 나면 일단 올라타라](http://estima.wordpress.com/2012/05/28/sheryl/)" - 에릭 슈미트
