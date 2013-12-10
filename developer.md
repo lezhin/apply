@@ -9,6 +9,7 @@
 - ["다음회가 너무 궁금해"… 모바일 웹툰, 지갑 열게 만들다 - [한국일보] ](http://news.hankooki.com/lpage/culture/201311/h2013113003381986330.htm)
 - [유료 웹툰 서비스' 성공 이끈 정부 협업 - [대한민국 정책브리핑] ](http://www.korea.kr/policy/cultureView.do?newsId=148770632&call_from=naver_news)
 - [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
+- [콘텐츠 파는 법? 무료는 좋게 유료는 더 좋게 - [조선비즈]](http://biz.chosun.com/site/data/html_dir/2013/08/22/2013082201921.html)
 - [레진코믹스 "모바일로 웹툰 판 바꿀 것" - [블로터] ](http://www.bloter.net/archives/155771)
 - [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
 - [레진코믹스를 시작하며 by [레진엔터테인먼트 CEO 레진] ](http://lezhin.tistory.com/1072)
