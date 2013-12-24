@@ -36,7 +36,7 @@ JIRA 에 JIRA Agile 확장을 설치하여 업무관리를 하고 있으며, Con
 아래 두 가지 영역의 개발자를 모십니다.
 
 - iOS/Android 앱 고도화를 위한 **Native App 개발자**
-- API, Metric, Infra 등을 분담할 **서버 개발자**
+- API, Metric, Infra 등을 분담할 **서버 개발자** 
 
 "난 이 분야만 해" 라고 말씀하시는 분보다, "다양하게 개발하고 싶어요" 하는 분을 선호합니다.
 
