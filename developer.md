@@ -6,12 +6,18 @@
 
 ## 회사 소개
 
+- [레진코믹스 인터뷰: 이제는 해외 진출이다 - 슬로우뉴스](http://slownews.kr/17219)
+- [투명한 정보 공개로 건전한 콘텐츠 생태계를 구축하는 레진코믹스 - 벤처스퀘어](http://www.venturesquare.net/528778)
+- [미친 짓 같았던 유료 웹툰 도전.. 그들이 성공한 이유는 - 디지털데일리](http://www.ddaily.co.kr/news/article.html?no=112732)
+- ['포털 진입해야 성공' 편견 깬 '레진코믹스'](http://www.dt.co.kr/contents.html?article_no=2013123002012069607027&naver=stand)
+- [만화가 좋아 스마트폰에 만화방 차렸어요 - 동아일보](http://news.donga.com/3/all/20131226/59784817/1)
 - ["다음회가 너무 궁금해"… 모바일 웹툰, 지갑 열게 만들다 - [한국일보] ](http://news.hankooki.com/lpage/culture/201311/h2013113003381986330.htm)
 - [유료 웹툰 서비스' 성공 이끈 정부 협업 - [대한민국 정책브리핑] ](http://www.korea.kr/policy/cultureView.do?newsId=148770632&call_from=naver_news)
 - [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
 - [콘텐츠 파는 법? 무료는 좋게 유료는 더 좋게 - [조선비즈]](http://biz.chosun.com/site/data/html_dir/2013/08/22/2013082201921.html)
 - [레진코믹스 "모바일로 웹툰 판 바꿀 것" - [블로터] ](http://www.bloter.net/archives/155771)
 - [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
+- [레진코믹스 최초 인터뷰: 레진과 구루, 유료 웹툰 서비스를 시작하다 - 슬로우뉴스](http://slownews.kr/11108)
 - [레진코믹스를 시작하며 by [레진엔터테인먼트 CEO 레진] ](http://lezhin.tistory.com/1072)
 - [새로운 시작을 합니다 - 레진코믹스 by [레진엔터테인먼트 CTO 구루] ](http://xguru.net/1362)
 
@@ -29,14 +35,11 @@
 
 또한, Ruby와 PHP로도 일부 도구를 만들어 활용하고 있습니다.
 
-JIRA 에 JIRA Agile 확장을 설치하여 업무관리를 하고 있으며, Confluence 를 적극 활용합니다. 
-
 ## 모집 분야
 
-아래 두 가지 영역의 개발자를 모십니다.
+좋은 개발자는 계속 모시고 있습니다만, 우선적으로 "Android 앱 고도화를 위한 **Native App 개발자**"" 를 모십니다. 
 
-- iOS/Android 앱 고도화를 위한 **Native App 개발자**
-- API, Metric, Infra 등을 분담할 **서버 개발자**
+하지만, 분야와 상관없이 멋진 만화서비스를 만들어 보고 싶은 개발자분들은 모두 환영합니다.
 
 "난 이 분야만 해" 라고 말씀하시는 분보다, "다양하게 개발하고 싶어요" 하는 분을 선호합니다.
 
