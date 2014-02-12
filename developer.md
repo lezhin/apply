@@ -32,7 +32,7 @@
 
 레진코믹스는 현재 [Android](http://j.mp/lezhincomics_android) / [iOS](http://j.mp/lezhincomics_ios) / [Web](http://www.lezhin.com) 세 개의 플랫폼을 지원하고 있습니다.
 
-모두 HTML5 를 이용한 웹 기술로 개발되어 있고, iOS/Android 는 Phonegap 을 이용한 하이브리드 앱으로 되어있습니다.
+모두 HTML5 를 이용한 웹 기술로 개발되어 있고, iOS/Android 는 Phonegap 을 이용한 하이브리드 앱으로 되어있습니다. v2.0은 Android/iOS 둘다 Native 로 개발중입니다.
 
 서버는 구글 앱엔진에서 Java + Spring 으로 개발되어 있으며, 모든 기능은 REST API로 구성되어 각 플랫폼에 제공됩니다. 추가적으로 해외진출을 위해서 아마존 EC2도 조금씩 활용하고 있습니다.
 
