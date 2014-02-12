@@ -6,7 +6,7 @@
 
 ## 회사 소개
 
-- [웹툰이 해외 영상시장 공략 `선봉`…트랜스미디어 빅뱅 온다 - [전자신문]](http://www.etnews.com/news/contents/internet/2914725_1488.html)
+- [웹툰이 해외 영상시장 공략 '선봉'…트랜스미디어 빅뱅 온다 - [전자신문]](http://www.etnews.com/news/contents/internet/2914725_1488.html)
 - [CJ E&M “레진 웹툰, 제작초기부터 투자“ - [ZDNet Korea]](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20140205101654)
 - ["돈 내면 먼저 본다"… 전세계 IT 수익 모델 선도하는 한국 기업들 - [조선비즈]](http://biz.chosun.com/site/data/html_dir/2014/01/17/2014011701731.html)
 - [레진코믹스 인터뷰: 이제는 해외 진출이다 - [슬로우뉴스] ](http://slownews.kr/17219)
