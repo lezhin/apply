@@ -70,7 +70,7 @@ DVR 제품의 H/W와 S/W을 개발하여 판매하는 회사입니다.
  * DynDNS 와 유사한 동적 도메인 서비스 개발 ( Python )
     * 유동 IP를 사용하는 DVR Server에 접근 가능하게 DynDNS와 유사한 서비스를 제공하는 기능
     * Python의 Web Server 클래스를 이용하여 웹 포트 및 HTTP 프로토콜을 사용하여 구현하였습니다.
- * 내부 자재 관리 시스템 개발 ( HTML, Javascrip, Apach, PHP, MySQL, Apach )
+ * 내부 자재 관리 시스템 개발 ( HTML, Javascrip, Apach, PHP, MySQL )
     * 회사 내부에서 사용하는 자재관리 시스템을 개발하였습니다. 부수적인 업무로 진행했던 것이라 기능은 많이 부족했던 것으로 기억합니다.
  
 ## 두리네트워크 ( 2000.4 ~ 2001.2 )
