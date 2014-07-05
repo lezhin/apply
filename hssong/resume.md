@@ -6,7 +6,7 @@ Altibase는 HDB라는 Database 제품을 개발하는 회사입니다. HDB는 In
 
 ### Altibase ADI(Altibase Data Integrator) 제품 개발 참여
 
-이기종 DB간에 통합하기 위한 제품으로 DB의 로그 기반 데이터 분석하여 내용을 반영하는 제품이었습니다.
+이기종 DB 간에 통합하기 위한 제품으로 DB의 로그 기반 데이터 분석하여 내용을 반영하는 제품이었습니다.
 
  * 유지 보수 업무
  * 설정 파일 개선 작업 ( C, Bison, Flex )
@@ -18,10 +18,10 @@ Altibase는 HDB라는 Database 제품을 개발하는 회사입니다. HDB는 In
 
  * Altibase HDB OraAdapter 개발 ( C )
     * Altibase HDB의 이중화 기능을 이용하여 변경된 내용을 Oracle에 반영하는 제품입니다.
-    * 단독으로 진행하였으며, 요구 사항 수집부터 구현까지 진행하였습니다. 이후 테스트, 메뉴얼을 포함하는 제품화는 다른 분이 이어서 진행하였습니다.
+    * 단독으로 진행하였으며, 요구 사항 수집부터 구현까지 진행하였습니다. 이후 테스트, 매뉴얼을 포함하는 제품화는 다른 분이 이어서 진행하였습니다.
 
  * Altibase HDB Heterogeneous Database Link 개발 참여 ( C/C++, Bison, Flex )
-    * JDBC를 이용하여 이기종 DB에 접근가능하게 하는 기능입니다.
+    * JDBC를 이용하여 이기종 DB에 접근 가능하게 하는 기능입니다.
     * 설정 파일 부분 구현
     * 기능은 별도의 독립 부분으로 구현이 진행되었고, 이 부분이 Altibase HDB에 연동될 수 있게 이 모듈의 외부 인터페이스 설계 및 구현
     * 새로 추가되는 SQL 인터페이스 구현
@@ -34,9 +34,9 @@ Altibase는 HDB라는 Database 제품을 개발하는 회사입니다. HDB는 In
 
 티맥스 OS라는 제품을 개발하는 티맥스소프트의 자회사였습니다. 티맥스 OS의 커널에 포함되는 USB 스택 쪽 구현을 담당했습니다.
 
-개발 기간 및 지원해야할 수많은 USB 장치를 고려하여 라이센스 문제가 안되는 Free BSD의 USB Stack을 티맥스 OS에 포팅하였습니다. ( C )
+개발 기간 및 지원해야 할 수많은 USB 장치를 고려하여 라이선스 문제가 안 되는 Free BSD의 USB Stack을 티맥스 OS에 이식하였습니다. ( C )
 
- * UHCi, EHCI Host Controller Driver
+ * UHCI, EHCI Host Controller Driver
  * USB Driver
  * USB Class Driver
     * HUB, HID, Mass Storage
@@ -47,10 +47,10 @@ AnyGate라는 유무선 공유기 제품을 비롯해 MediaGate라는 Divx 플�
 
 AnyGate 제품의 시스템 부분에서 일을 하였습니다. 
 
- * Linux Kernel 유지 보수 및 포팅 업무 담당 ( C )
-    * 새로운 보두가 개발되면 해당 보드에 Linux Kernel 포팅
- * ALTech Bootloader 유지 보수 및 포팅 업무 담당 ( C, ASM for ARM )
-    * 새로운 보드가 개발되면 해당 보드에 맞게 Bootloader 포팅을 하였습니다.
+ * Linux Kernel 유지 보수 및 이식 업무 담당 ( C )
+    * 새로운 보두가 개발되면 해당 보드에 Linux Kernel 이식
+ * ALTech Bootloader 유지 보수 및 이식 업무 담당 ( C, ASM for ARM )
+    * 새로운 보드가 개발되면 해당 보드에 맞게 Bootloader 이식하였습니다.
  * AnyGate 제품에 포함된 각종 장치 드라이버 유지 보수 및 개발 업무 담당 ( C )
     * 유선 Network Switch Driver
     * 무선 Lan Card Driver
