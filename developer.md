@@ -28,6 +28,7 @@ JIRA 에 JIRA Agile 확장을 설치하여 업무관리를 하고 있으며, Con
 
 좋은 개발자는 계속 모시고 있습니다만, 우선적으로 아래 분야의 개발자를 모시고 있습니다.
 
+- Java/Spring/GCP(Google Cloud Platform)에 익숙한 **Backend 개발자** (온라인 쇼핑몰 경력 우대)
 - 사용자의 입맛에 맞는 콘텐츠를 콕 찝어 추천해줄 **개인화 / 추천엔진 개발 및 적용**
 - [웹단의 모든것을 이쁘고 빠르게 만들어주실 **Frontend 개발자**](frontend-developer.md)
 
