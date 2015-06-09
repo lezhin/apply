@@ -6,6 +6,7 @@
 
 저희와 함께하실 분들을 모십니다! 상세 지원 방법은 아래 내용과 직군별 공고를 참고하세요.
 
+ - [프리랜서 번역가 모집 (상세보기)](freelancer-translator.md) **new**
  - [북 디자이너 (상세보기)](book_designer.md) **new**
  - [장르소설 담당자 (상세보기)](novel.md) 
  - [개발자 (상세보기)](developer.md)
