@@ -28,7 +28,7 @@ JIRA 에 JIRA Agile 확장을 설치하여 업무관리를 하고 있으며, Con
 
 좋은 개발자는 계속 모시고 있습니다만, 우선적으로 아래 분야의 개발자를 모시고 있습니다.
 
-- iOS / Android 개발 3년이상 경력자
+- *iOS / Android 개발 3년이상 경력자*
 - Java/Spring/GCP(Google Cloud Platform)에 익숙한 **Backend 개발자** (온라인 쇼핑몰 경력 우대)
 - [웹단의 모든것을 이쁘고 빠르게 만들어주실 **Frontend 개발자**](frontend-developer.md)
 
