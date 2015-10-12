@@ -8,7 +8,6 @@
 
  - **인사 담당자** : 인재를 뽑고, 함께 최고의 회사로 만들어 나가실 3년이상의 경력자. 글로벌 기업 경력자 우대
  - [개발자 (상세보기)](developer.md) - iOS/Android/Backend/Web-Frontend
- - [한영번역 PM 모집 (상세보기)](translator-pm.md)
  - [프리랜서 번역가 모집 (상세보기)](freelancer-translator.md)
  - [장르소설 담당자 (상세보기)](novel.md) 
  - [콘텐츠 담당자 (상세보기)](pd.md) 
