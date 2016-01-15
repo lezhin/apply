@@ -7,7 +7,6 @@
 저희와 함께하실 분들을 모십니다! 상세 지원 방법은 아래 내용과 직군별 공고를 참고하세요.
 
  - [개발자 (상세보기)](developer.md) - Android/iOS/Web-Frontend
- - [한영 프리랜서 번역가 모집 (상세보기)](freelancer-translator.md)
  - [장르소설 담당자 (상세보기)](novel.md) 
  - [콘텐츠 담당자 (상세보기)](pd.md) 
  - [일본 만화 편집 담당자 (상세보기)](jp_comic.md) 
