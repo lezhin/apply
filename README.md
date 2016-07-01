@@ -25,8 +25,8 @@
 
 ## 언론에 비친 레진엔터테인먼트 / 레진코믹스
 
-- [IMM PE, 웹툰업체 레진엔터테인먼트에 500억 투자](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0002845393)
-- [레진 국내외서 2차판권 사업 본격화 - 웹툰 '조국과 민족' 영화로 제작, '아만자'는 일본서 책 출판'](http://www.focus.kr/view.php?key=2016062000110303163)
+- [IMM PE, 웹툰업체 레진엔터테인먼트에 500억 투자 -[서울경제]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0002845393)
+- [레진 국내외서 2차판권 사업 본격화 - 웹툰 '조국과 민족' 영화로 제작, '아만자'는 일본서 책 출판' -[한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=201606206555v)
 - [뛰어난 인재도 덕후 아니면 안뽑아 - [jobsN]](http://blog.naver.com/jobarajob/220692082698)
 - [한·미·일 3국서 가장 사랑받은 웹툰 - [디지털데일리]](http://www.ddaily.co.kr/news/article.html?no=141304)
 - [미국 간 레진코믹스…권정혁 레진코믹스 공동창업자 "아이언맨 만든 마블처럼 키울 것" - [한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=2016012093951)
