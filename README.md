@@ -12,7 +12,7 @@
 
 저희와 함께하실 분들을 모십니다! 상세 지원 방법은 아래 내용과 직군별 공고를 참고하세요.
 
- - [한→영 번역 PM (상세보기)](backend_developer.md) <= **NEW (채용시까지)**
+ - [한→영 번역 PM (상세보기)](translator_pm.md) <= **NEW (채용시까지)**
  - [Backend 경력 개발자 (상세보기)](backend_developer.md) <= **2016년 7월 25일까지**
  - [CRM 담당자 - 경력3년내외 (상세보기)](crm_specialist.md) <= **NEW (채용시까지)**
  - [데이터 분석가 - 경력3년이상 (상세보기)](data_analyst.md) <= **NEW (채용시까지)**
