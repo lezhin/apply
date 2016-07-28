@@ -40,7 +40,6 @@
 - [투명한 정보 공개로 건전한 콘텐츠 생태계를 구축하는 레진코믹스 - [벤처스퀘어] ](http://www.venturesquare.net/528778)
 - [미친 짓 같았던 유료 웹툰 도전.. 그들이 성공한 이유는 - [디지털데일리] ](http://www.ddaily.co.kr/news/article.html?no=112732)
 - ['포털 진입해야 성공' 편견 깬 '레진코믹스' - [디지털타임스]](http://www.dt.co.kr/contents.html?article_no=2013123002012069607027&naver=stand)
-- ["다음회가 너무 궁금해"… 모바일 웹툰, 지갑 열게 만들다 - [한국일보] ](http://news.hankooki.com/lpage/culture/201311/h2013113003381986330.htm)
 - [유료 웹툰 서비스' 성공 이끈 정부 협업 - [대한민국 정책브리핑] ](http://www.korea.kr/policy/cultureView.do?newsId=148770632&call_from=naver_news)
 - [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
 - [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
