@@ -17,7 +17,6 @@
  - [CRM 담당자 - 경력3년내외 (상세보기)](crm_specialist.md) <= **NEW (채용시까지)**
  - [데이터 분석가 - 경력3년이상 (상세보기)](data_analyst.md) <= **NEW (채용시까지)**
  - [영상사업부 PD (상세보기)](media_pd.md) <= **NEW  (채용시까지)**
- - [모바일 웹 서비스 기획자 (상세보기)](product_manager.md) <= **NEW (채용시까지)**
  - [게임 개발자 (상세보기)](game_developer.md) - 2D 게임 
 
 
