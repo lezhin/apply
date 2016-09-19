@@ -15,7 +15,6 @@
  - [운영팀 디지털 출판 만화 담당자 (상세보기)](comic_inbound.md) <= **NEW (채용시까지)**
  - [국제 판권 담당자 (상세보기)](international_pd.md) <= **NEW (채용시까지)**
  - [한→영 번역 PM (상세보기)](translator_pm.md) <= **NEW (채용시까지)**
- - [CRM 담당자 - 경력3년내외 (상세보기)](crm_specialist.md) <= **NEW (채용시까지)**
  - [데이터 분석가 - 경력3년이상 (상세보기)](data_analyst.md) <= **NEW (채용시까지)**
  - [영상사업부 PD (상세보기)](media_pd.md) <= **NEW  (채용시까지)**
 
