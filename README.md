@@ -12,10 +12,10 @@
 
 저희와 함께하실 분들을 모십니다! 상세 지원 방법은 아래 내용과 직군별 공고를 참고하세요.
 
- - [웹소설 콘텐츠 PD (상세보기)](web_novel.md) <= **NEW (채용시까지)**
+ - [웹소설 콘텐츠 PD (상세보기)](webnovel_pd.md) <= **NEW (채용시까지)**
  - [IT 서비스 담당자 (상세보기)](it_svc.md) <= **NEW (채용시까지)**
- - [운영팀 디지털 출판 만화 담당자 (상세보기)](comic_inbound.md) <= **NEW (채용시까지)**
- - [국제 판권 담당자 (상세보기)](international_pd.md) <= **NEW (채용시까지)**
+ - [디지털 출판 만화 운영 담당자 (상세보기)](comic_inbound.md) <= **NEW (채용시까지)**
+ - [출판사업 국제 판권 담당자 (상세보기)](international_pd.md) <= **NEW (채용시까지)**
  - [한→영 번역 PM (상세보기)](translator_pm.md) <= **NEW (채용시까지)**
  - [데이터 분석가 - 경력3년이상 (상세보기)](data_analyst.md) <= **NEW (채용시까지)**
  - [영상사업부 PD (상세보기)](media_pd.md) <= **NEW  (채용시까지)**
@@ -23,50 +23,28 @@
 
 위 분야에 해당하지 않으셔도, 저희 서비스를 더 멋지게 만드는데 도움이 될것같다고 생각하시면 편하게 지원해주세요.
 
-## 언론에 비친 레진엔터테인먼트 / 레진코믹스
-
-- [IMM PE, 웹툰업체 레진엔터테인먼트에 500억 투자 -[서울경제]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0002845393)
-- [레진 국내외서 2차판권 사업 본격화 - 웹툰 '조국과 민족' 영화로 제작, '아만자'는 일본서 책 출판' -[한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=201606206555v)
-- [뛰어난 인재도 덕후 아니면 안뽑아 - [jobsN]](http://blog.naver.com/jobarajob/220692082698)
-- [한·미·일 3국서 가장 사랑받은 웹툰 - [디지털데일리]](http://www.ddaily.co.kr/news/article.html?no=141304)
-- [미국 간 레진코믹스…권정혁 레진코믹스 공동창업자 "아이언맨 만든 마블처럼 키울 것" - [한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=2016012093951)
-- [레진코믹스 웹툰, 세계 최대 시장 미국에 진출한다 - [Inven] ](http://sports.news.naver.com/esports/news/read.nhn?oid=442&aid=0000029074)
-- [만화방집 아들, 웹툰시장 날다  [중앙일보]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=025&aid=0002550711)
-- [“이제는 웹소설”···레진엔터테인먼트 14개 작품 우선 서비스 - [경향신문]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=032&aid=0002631827)
-- [레진코믹스, 일본 진출 자신감 넘치는 이유는? - [조선비즈]](http://it.chosun.com/news/article.html?no=2806973)
-- [레진코믹스, 만화왕국 일본공략 '성공'…500만조회 돌파 - [한국경제]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0003380384)
-- [엔씨소프트,프리미엄 웹툰 '레진엔터'에 50억 투자 -[한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=201404163683g)
-- [레진코믹스, 웹툰 유료 모델 성공했다 - [전자신문]](http://www.etnews.com/20140321000104)
-- [투명한 정보 공개로 건전한 콘텐츠 생태계를 구축하는 레진코믹스 - [벤처스퀘어] ](http://www.venturesquare.net/528778)
-- [미친 짓 같았던 유료 웹툰 도전.. 그들이 성공한 이유는 - [디지털데일리] ](http://www.ddaily.co.kr/news/article.html?no=112732)
-- ['포털 진입해야 성공' 편견 깬 '레진코믹스' - [디지털타임스]](http://www.dt.co.kr/contents.html?article_no=2013123002012069607027&naver=stand)
-- [유료 웹툰 서비스' 성공 이끈 정부 협업 - [대한민국 정책브리핑] ](http://www.korea.kr/policy/cultureView.do?newsId=148770632&call_from=naver_news)
-- [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
-- [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
-- [레진코믹스 최초 인터뷰: 레진과 구루, 유료 웹툰 서비스를 시작하다 - [슬로우뉴스] ](http://slownews.kr/11108)
-- [레진코믹스를 시작하며 by [레진엔터테인먼트 CEO 레진] ](http://lezhin.tistory.com/1072)
-- [새로운 시작을 합니다 - 레진코믹스 by [레진엔터테인먼트 CTO 구루] ](http://xguru.net/1362)
-
 
 ## 지원 자격 & 우대 사항
 
 - **컨텐츠 소비를 즐길 줄 알아야 합니다**
-- 업무 외에 **무언가에 심각하게 빠져 있는 분** ( 자전거, 레고, 다트던지기, 식도락 등 온갖 종류의 덕질의 열정처럼 일할 수 있는 분 )
+- 업무 외에 **무언가에 심각하게 빠져 있는 분** ( 자전거, 레고, 다트던지기, 식도락 등 온갖 종류의 열정 소유자 )
 - 학력 / 전공 무관
 - 영어 / 일어 능력자 우대
 - 경력자 우대 ( 개발자 / QA / 콘텐츠 담당자 는 경력 필수 )
 - 나이제한 없음
 - **지원자격은 상세 채용공고가 있는 직군 별로 조금씩 다를수 있습니다. 상세 채용공고를 참고하세요.**
 
-## 기본 제출 서류 및 접수 방법
+## 제출 서류 및 접수 방법
 
-자유로운 양식으로 작성해 주세요.
+자유로운 양식으로 작성해 주세요. 파일형식은 Word/PDF/PPT 를 추천합니다.
 
 - 이력서 & 경력 기술서
 	* 경력자의 경우, 기존 업무에 대한 포트폴리오를 잘 정리해서 보여주세요.
 - 자기 소개서 ( 자신이 푹 빠져 있거나 잉여스러운 내용도 꼭꼭 적어주세요. )
+- 각 채용 직군별 추가 제출 서류 및 과제를 참고해주세요. 
 
 이메일 지원 : **job@lezhin.com** 으로 위 서류들을 보내주세요. 이력서는 내부에서 회람되기 때문에, 희망 연봉 제시 시 메일 본문에 적어주세요.
+
 
 저희는 작은 인력으로 빠르게 움직이면서 키워나가고 있는 스타트업인지라 들어오시자 마자 바로 특정 분야를 주도적으로 담당하셔야 하므로, 자신 있으신 분야에 대한 설명과 저희 서비스와 팀내에서 어떻게 그걸 발휘하시고 가치를 더할 수 있는 지를 상세히 보여주시면 가장 좋습니다.
 
@@ -102,6 +80,32 @@
 - 1차 면접은 지원 분야에 따라 진행 방식이 상이할 수 있습니다.
 - 면접 결과는 전화 혹은 이메일로 개별 안내해드립니다.
 - 합격 시 경력에 관계없이 3개월 수습 기간을 거치게 됩니다.
+
+
+## 언론에 비친 레진엔터테인먼트 / 레진코믹스
+
+- [IMM PE, 웹툰업체 레진엔터테인먼트에 500억 투자 -[서울경제]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0002845393)
+- [레진 국내외서 2차판권 사업 본격화 - 웹툰 '조국과 민족' 영화로 제작, '아만자'는 일본서 책 출판' -[한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=201606206555v)
+- [뛰어난 인재도 덕후 아니면 안뽑아 - [jobsN]](http://blog.naver.com/jobarajob/220692082698)
+- [한·미·일 3국서 가장 사랑받은 웹툰 - [디지털데일리]](http://www.ddaily.co.kr/news/article.html?no=141304)
+- [미국 간 레진코믹스…권정혁 레진코믹스 공동창업자 "아이언맨 만든 마블처럼 키울 것" - [한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=2016012093951)
+- [레진코믹스 웹툰, 세계 최대 시장 미국에 진출한다 - [Inven] ](http://sports.news.naver.com/esports/news/read.nhn?oid=442&aid=0000029074)
+- [만화방집 아들, 웹툰시장 날다  [중앙일보]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=025&aid=0002550711)
+- [“이제는 웹소설”···레진엔터테인먼트 14개 작품 우선 서비스 - [경향신문]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=032&aid=0002631827)
+- [레진코믹스, 일본 진출 자신감 넘치는 이유는? - [조선비즈]](http://it.chosun.com/news/article.html?no=2806973)
+- [레진코믹스, 만화왕국 일본공략 '성공'…500만조회 돌파 - [한국경제]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0003380384)
+- [엔씨소프트,프리미엄 웹툰 '레진엔터'에 50억 투자 -[한국경제]](http://www.hankyung.com/news/app/newsview.php?aid=201404163683g)
+- [레진코믹스, 웹툰 유료 모델 성공했다 - [전자신문]](http://www.etnews.com/20140321000104)
+- [투명한 정보 공개로 건전한 콘텐츠 생태계를 구축하는 레진코믹스 - [벤처스퀘어] ](http://www.venturesquare.net/528778)
+- [미친 짓 같았던 유료 웹툰 도전.. 그들이 성공한 이유는 - [디지털데일리] ](http://www.ddaily.co.kr/news/article.html?no=112732)
+- ['포털 진입해야 성공' 편견 깬 '레진코믹스' - [디지털타임스]](http://www.dt.co.kr/contents.html?article_no=2013123002012069607027&naver=stand)
+- [유료 웹툰 서비스' 성공 이끈 정부 협업 - [대한민국 정책브리핑] ](http://www.korea.kr/policy/cultureView.do?newsId=148770632&call_from=naver_news)
+- [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
+- [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
+- [레진코믹스 최초 인터뷰: 레진과 구루, 유료 웹툰 서비스를 시작하다 - [슬로우뉴스] ](http://slownews.kr/11108)
+- [레진코믹스를 시작하며 by [레진엔터테인먼트 CEO 레진] ](http://lezhin.tistory.com/1072)
+- [새로운 시작을 합니다 - 레진코믹스 by [레진엔터테인먼트 CTO 구루] ](http://xguru.net/1362)
+
 
 저희는 서비스 오픈 첫달부터 흑자를 내고 있는 국내에서 보기 드문 스타트업 입니다.
 **누구도 상상하지 못한 컨텐츠 서비스** 를 함께 만들어 나갈 분들의 많은 지원 바랍니다.
