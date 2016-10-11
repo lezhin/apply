@@ -15,7 +15,6 @@
  - [웹소설 콘텐츠 PD (상세보기)](webnovel_pd.md) <= **NEW (채용시까지)**
  - [IT 서비스 담당자 (상세보기)](it_svc.md) <= **NEW (채용시까지)**
  - [디지털 출판 만화 운영 담당자 (상세보기)](comic_inbound.md) <= **NEW (채용시까지)**
- - [출판사업 국제 판권 담당자 (상세보기)](international_pd.md) <= **NEW (채용시까지)**
  - [한→영 번역 PM (상세보기)](translator_pm.md) <= **NEW (채용시까지)**
  - [데이터 분석가 - 경력3년이상 (상세보기)](data_analyst.md) <= **NEW (채용시까지)**
  - [영상사업부 PD (상세보기)](media_pd.md) <= **NEW  (채용시까지)**
