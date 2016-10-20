@@ -13,14 +13,14 @@
 
 저희와 함께하실 분들을 모십니다! 상세 지원 방법은 아래 내용과 직군별 공고를 참고하세요.
 
- - [모바일 & 웹 UI 디자이너 (상세보기)](ui_designer.md) <= **NEW (채용시까지)**
- - [모바일 & 웹 서비스 기획자 (상세보기)](service_planner.md) <= **NEW (채용시까지)**
- - [백엔드 개발자 (상세보기)](backend_develop.md) <= **NEW (채용시까지)**
- - [웹소설 콘텐츠 PD (상세보기)](webnovel_pd.md) <= **NEW (채용시까지)**
- - [디지털 출판 만화 운영자 (상세보기)](comic_inbound.md) <= **NEW (채용시까지)**
- - [한영 번역 PM (상세보기)](translator_pm.md) <= **NEW (채용시까지)**
- - [데이터 분석가 (상세보기)](data_analyst.md) <= **NEW (채용시까지)**
- - [영상사업부 PD (상세보기)](media_pd.md) <= **NEW  (채용시까지)**
+ - [모바일 & 웹 UI 디자이너 (상세보기)](ui_designer.md) <= **채용시까지**
+ - [모바일 & 웹 서비스 기획자 (상세보기)](service_planner.md) <= **채용시까지**
+ - [백엔드 개발자 (상세보기)](backend_develop.md) <= **채용시까지**
+ - [웹소설 콘텐츠 PD (상세보기)](webnovel_pd.md) <= **채용시까지**
+ - [디지털 출판 만화 운영자 (상세보기)](comic_inbound.md) <= **채용시까지**
+ - [한영 번역 PM (상세보기)](translator_pm.md) <= **채용시까지**
+ - [데이터 분석가 (상세보기)](data_analyst.md) <= **채용시까지**
+ - [영상사업부 PD (상세보기)](media_pd.md) <= **채용시까지**
 
 
 
