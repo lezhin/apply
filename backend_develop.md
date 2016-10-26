@@ -30,7 +30,7 @@
 
 - Java & Spring 경력자
 - RDBMS 설계 및 최적화 능력
-- 컨텐츠 플랫폼 개발 경험
+- B2C 플랫폼 개발 경험 등 유사 업무 경험이 있으신 분
 - AWS/Google Cloud Platform 개발 경험
 
 
