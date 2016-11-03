@@ -15,7 +15,6 @@
 
  - [**모바일 & 웹 UI 디자이너** (상세보기)](ui_designer.md) 
  - [**모바일 & 웹 서비스 기획자** (상세보기)](service_planner.md) 
- - [**출판사업 국제판권 담당자** (상세보기)](international_pd.md) 
  - [**백엔드 개발자** (상세보기)](backend_develop.md) 
  - [**웹소설 콘텐츠 PD** (상세보기)](webnovel_pd.md) 
  - [**디지털 출판만화 운영자** (상세보기)](comic_inbound.md) 
