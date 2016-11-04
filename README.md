@@ -18,7 +18,6 @@
  - [**백엔드 개발자** (상세보기)](backend_develop.md) 
  - [**웹소설 콘텐츠 PD** (상세보기)](webnovel_pd.md) 
  - [**디지털 출판만화 운영자** (상세보기)](comic_inbound.md) 
- - [**한영 번역 PM** (상세보기)](translator_pm.md) 
  - [**데이터 분석가** (상세보기)](data_analyst.md) 
  - [**영상사업부 PD** (상세보기)](media_pd.md) 
 
