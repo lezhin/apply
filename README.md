@@ -13,10 +13,11 @@
 
 저희와 함께하실 분들을 모십니다! 상세 지원 방법은 아래 군별 공고를 참고하세요.
 
+ - [**출판 편집자** (상세보기)](publication_editor.md) 
  - [**모바일 & 웹 UI 디자이너** (상세보기)](ui_designer.md) 
  - [**모바일 & 웹 서비스 기획자** (상세보기)](service_planner.md) 
  - [**백엔드 개발자** (상세보기)](backend_develop.md) 
- - [**웹소설 콘텐츠 PD** (상세보기)](webnovel_pd.md) 
+ - [**웹소설 콘텐츠 PD** (상세보기)](webnovel_pd.md)
  - [**디지털 출판만화 운영자** (상세보기)](comic_inbound.md) 
  - [**데이터 분석가** (상세보기)](data_analyst.md) 
  - [**영상화 판권 및 기획 담당자** (상세보기)](media_pd.md) 
