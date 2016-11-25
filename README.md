@@ -13,6 +13,7 @@
 
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군별 공고 페이지를 참고하세요.
 
+ - [**한일 웹툰 제작PM** (상세보기)](JP_translator_pm.md) 
  - [**출판 편집자** (상세보기)](publication_editor.md) 
  - [**모바일 & 웹 UI 디자이너** (상세보기)](ui_designer.md) 
  - [**모바일 & 웹 서비스 기획자** (상세보기)](service_planner.md) 
