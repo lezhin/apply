@@ -14,7 +14,7 @@
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
  - [**출판 편집자**](publication_editor.md) 
- - [**모바일 & 웹 UI 디자이너**](ui_designer.md) 
+ - [**콘텐츠 서비스 운영 및 UI 디자이너**](ui_designer.md) 
  - [**모바일 & 웹 서비스 기획자**](service_planner.md) 
  - [**웹소설 콘텐츠 PD**](webnovel_pd.md)
  - [**웹툰 콘텐츠 PD**](webtoon_pd.md)
