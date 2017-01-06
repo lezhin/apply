@@ -19,7 +19,7 @@
  - [**한일 웹툰 제작PM**](JP_translator_pm.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
- - [**영상화 판권 및 기획 담당자**](media_pd.md)
+ - [**영화기획 PD**](media_pd.md)
 
 
 ## 공통 지원자격 & 우대사항
