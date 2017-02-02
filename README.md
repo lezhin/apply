@@ -13,10 +13,8 @@
 
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
- - [**한영 번역 PM**](translator_pm.md)
  - [**출판 편집자**](publication_editor.md) 
  - [**콘텐츠 서비스 운영 및 UI 디자이너**](ui_designer.md) 
- - [**모바일 & 웹 서비스 기획자**](service_planner.md) 
  - [**한일 웹툰 제작PM**](JP_translator_pm.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
