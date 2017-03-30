@@ -13,6 +13,7 @@
 
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
+ - [**회계 담당자**](Finance.md)
  - [**법무 담당자**](Legal.md)
  - [**기업 홍보 담당자**](PR.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
@@ -62,7 +63,7 @@
 - [레진, 웹툰 'D.P 개의 날' 영화로 공동 제작 - [아이뉴스24]](http://news.inews24.com/php/news_view.php?g_serial=1006710&g_menu=020310&rrf=nv)
 - [저작권해외진흥협회 회장사에 레진엔터테인먼트 - [이데일리]](http://www.edaily.co.kr/news/NewsRead.edy?SCD=JE41&newsid=02876566615828552&DCD=A00504&OutLnkChk=Y)
 - [레진엔터테인먼트, “국내 유료 웹툰 시장 개척 발판 통해 새 성장 준비한다 - [전자신문]](http://www.etnews.com/20170203000103)
-- [10 South Korean Startups Breaking Out In 2017 - [Forbes Asia]](https://www.forbes.com/sites/elaineramirez/2017/01/17/10-south-korean-startups-breaking-out-in-2017/#7f4929c07506) 
+- [10 South Korean Startups Breaking Out In 2017 - [Forbes Asia]](https://www.forbes.com/sites/elaineramirez/2017/01/17/10-south-korean-startups-breaking-out-in-2017/#10c2f1867506) 
 - ['웹툰명가'레진, 국내 최대규모 '제3회 레진코믹스 세계만화공모전'개최 - [전자신문]](http://www.etnews.com/20161201000543)
 - [세계로 뻗어나가는 웹툰, 레진코믹스의 꿈과 포부는? - [KTV]](http://www.ktv.go.kr/content/view?content_id=527542)
 - [레진코믹스 인기 웹툰 '우리사이느은·너의 돈이보여' 드라마로 제작 - [IT 조선]](http://it.chosun.com/news/article.html?no=2824317)
