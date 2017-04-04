@@ -18,7 +18,6 @@
  - [**기업 홍보 담당자**](PR.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한일 웹툰 제작 PM**](JP_translator_pm.md)
- - [**안드로이드 개발자**](android_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
  
