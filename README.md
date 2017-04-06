@@ -15,7 +15,7 @@
 
  - [**iOS 개발자**](iOS_develop.md)
  - [**Web 개발자**](web_develop.md)
- - [**백오피스 Web 개발자**](backoffice_develop.md)
+ - [**Web 개발자 / 백오피스**](backoffice_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
  - [**회계 담당자**](Finance.md)
