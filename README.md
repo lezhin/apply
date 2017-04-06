@@ -13,12 +13,15 @@
 
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
+ - [**iOS 개발자**](iOS_develop.md)
+ - [**Web 개발자**](web_develop.md)
+ - [**백오피스 Web 개발자**](backoffice_develop.md)
+ - [**백엔드 개발자**](backend_develop.md) 
+ - [**데이터 분석가**](data_analyst.md) 
  - [**회계 담당자**](Finance.md)
  - [**기업 홍보 담당자**](PR.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한일 웹툰 제작 PM**](JP_translator_pm.md)
- - [**백엔드 개발자**](backend_develop.md) 
- - [**데이터 분석가**](data_analyst.md) 
  
 
 
