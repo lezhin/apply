@@ -14,7 +14,7 @@
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군 명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
  - [**iOS 개발자**](iOS_develop.md)
- - [**Web 개발자**](web_develop.md)
+ - [**Web 개발자/서비스**](web_develop.md)
  - [**Web 개발자/백오피스**](backoffice_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
