@@ -61,7 +61,7 @@
 
 
 ## 언론에 비친 레진엔터테인먼트 / 레진코믹스
-- [만화방 아들, 웹툰의 새 판 짜다 - [디지털조선일보]](http://news.chosun.com/site/data/html_dir/2017/04/04/2017040401881.html)
+- [만화방 아들, 웹툰의 새 판 짜다 - [조선일보]](http://news.chosun.com/site/data/html_dir/2017/04/04/2017040401881.html)
 - [레진엔터테인먼트, 웹툰 업계 처음으로 ISMS 인증 - [포커스뉴스]](http://www.focus.kr/view.php?key=2017030700091830220)
 - [레진, 웹툰 'D.P 개의 날' 영화로 공동 제작 - [아이뉴스24]](http://news.inews24.com/php/news_view.php?g_serial=1006710&g_menu=020310&rrf=nv)
 - [저작권해외진흥협회 회장사에 레진엔터테인먼트 - [이데일리]](http://www.edaily.co.kr/news/NewsRead.edy?SCD=JE41&newsid=02876566615828552&DCD=A00504&OutLnkChk=Y)
