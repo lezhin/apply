@@ -19,10 +19,9 @@
  - [**Web 개발자/백오피스**](backoffice_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
- - [**회계 담당자**](Finance.md)
  - [**기업 홍보 담당자**](PR.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
- - [**한일 웹툰 제작 PM**](JP_translator_pm.md)
+ 
  
 
 
