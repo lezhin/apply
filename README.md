@@ -13,13 +13,14 @@
 
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군 명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
- - [**콘텐츠 서비스 운영/UI 디자이너**](ui_designer.md)
- - [**웹 마크업 개발자**](markup_develop.md)
+ - [**Android 개발자**](android_develop.md)
  - [**iOS 개발자**](iOS_develop.md)
  - [**Web 개발자/서비스**](web_develop.md)
  - [**Web 개발자/백오피스**](backoffice_develop.md)
+ - [**Web 마크업 개발자**](markup_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
+ - [**콘텐츠 서비스 운영/UI 디자이너**](ui_designer.md)
  - [**기업 홍보 담당자**](PR.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
  
