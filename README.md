@@ -19,7 +19,6 @@
  - [**iOS 개발자**](iOS_develop.md)
  - [**Web 개발자/서비스**](web_develop.md)
  - [**Web 개발자/백오피스**](backoffice_develop.md)
- - [**Web 마크업 개발자**](markup_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
  - [**콘텐츠 서비스 운영/UI 디자이너**](ui_designer.md)
