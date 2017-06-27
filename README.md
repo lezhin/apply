@@ -16,7 +16,7 @@
  - [**재무회계 담당자**](Finance.md)
  - [**정보보호 담당자**](protection_data.md)
  - [**IP사업개발 담당자 & 중국사업 담당자**](Biz_dept.md)
- - [**안드로이드 개발**](android_develop.md)
+ - [**안드로이드 개발자**](android_develop.md)
  - [**Web 개발자/서비스**](web_develop.md)
  - [**Web 개발자/백오피스**](backoffice_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
