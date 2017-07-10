@@ -15,7 +15,7 @@
 
  - [**재무회계 담당자**](Finance.md)
  - [**정보보호 담당자**](protection_data.md)
- - [**모바일 & 웹 QA **](QA.md)
+ - [**모바일&웹 QA**](QA.md)
  - [**안드로이드 개발자**](android_develop.md)
  - [**Web 개발자/서비스**](web_develop.md)
  - [**Web 개발자/백오피스**](backoffice_develop.md)
