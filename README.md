@@ -16,13 +16,12 @@
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한국 서비스 운영자**](service_operator.md)
  - [**안드로이드 개발자**](android_develop.md)
- - [**Web 개발자/서비스**](web_develop.md)
+ - [**Web 개발자**](web_develop.md)
  - [**Web 개발자/백오피스**](backoffice_develop.md)
  - [**백엔드 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
  - [**모바일&웹 QA**](QA.md)
- - [**정보보호 담당자**](protection_data.md)
-
+ 
  
  
 
