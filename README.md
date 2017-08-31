@@ -18,7 +18,10 @@
 
 ## 서비스운영 그룹 
  - [**한국 서비스 운영자**](service_operator.md)
+ 
+## 해외사업 그룹 
  - [**일본 서비스 운영자**](JP_Operation.md)
+ - [**한일 웹툰 제작 PM**](JP_translator_pm.md)
 
 ## 개발 그룹 
  - [**Android 개발자**](android_develop.md)
