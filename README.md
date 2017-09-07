@@ -28,7 +28,7 @@
  - [**Back-end 개발자**](backend_develop.md) 
  - [**데이터 분석가**](data_analyst.md) 
  - [**모바일&웹 QA**](QA.md)
- - [**정보보호 담당자**](protection_data.md) 
+
  
  
 ## 공통 지원자격 & 우대사항
