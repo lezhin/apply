@@ -27,9 +27,6 @@
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
 
 ## 개발 그룹 
- - [**Android 개발자**](android_develop.md)
- - [**Web 개발자**](web_develop.md)
- - [**Back-end 개발자**](backend_develop.md) 
  - [**모바일&웹 QA**](QA.md)
 
  
