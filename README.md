@@ -25,6 +25,7 @@
 ## 해외사업 그룹 
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
+ - [**한-영 번역 PM**](US_translator_pm)
 
 ## 개발 그룹 
  - [**모바일&웹 QA**](QA.md)
