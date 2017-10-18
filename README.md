@@ -26,6 +26,7 @@
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
  - [**한-영 번역 Editor**](US_translator_editor.md)
+ - [**미국 해외사업 담당자**](US_business_operations.md)
 
 ## 개발 그룹 
  - [**모바일&웹 QA**](QA.md)
