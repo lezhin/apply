@@ -28,7 +28,6 @@
 
 ## 개발 그룹 
  - [**모바일&웹 QA**](QA.md)
- - [**안드로이드 개발자**](android_develop.md)
  - [**백엔드 개발자**](biz_backend_develop.md)
  - [**프론트 웹 개발자**](biz_front_develop.md)
 
