@@ -113,7 +113,7 @@
 
 
 ## 언론에 비친 레진엔터테인먼트 / 레진코믹스
-- [레진코믹스 첫 제작 영화 ‘밤치기’, ‘제22회 부산국제영화제’ 2관왕 수상 - [서울경제](http://www.sedaily.com/NewsView/1OMEZD2CKD)
+- [레진코믹스 첫 제작 영화 ‘밤치기’, ‘제22회 부산국제영화제’ 2관왕 수상 - [서울경제]](http://www.sedaily.com/NewsView/1OMEZD2CKD)
 - [레진코믹스 ‘킬링 스토킹’, 이탈리아 ‘루카 만화축제’ 현장에서 뜨거운 호응 - [서울경제]](http://www.sedaily.com/NewsView/1ONH3350K9)
 - [레진 웹툰 <오디세이>, ‘2017 SF어워드’ 만화부문 대상 수상 - [이데일리]](http://www.edaily.co.kr/news/news_detail.asp?newsId=02246806616098496&mediaCodeNo=257&OutLnkChk=Y)
 - [레진 웹툰 '단지' 2017 오늘의 우리만화로 선정 - [메일경제]](http://news.mk.co.kr/newsRead.php?year=2017&no=704479)
