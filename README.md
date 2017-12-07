@@ -17,16 +17,19 @@
 
 ## 경영지원 그룹 
  - [**법무리스크 관리 담당자**](Legal_RM.md)
+
+
+## 서비스실행&운영 그룹 
+ - [**고객 지원 담당자**](customer_relations.md)
+ - [**한국 서비스 운영자**](service_operator.md)
+ - [**결제 서비스 기획자**](billing_service.md)
   
 
-## 서비스운영 그룹 
- - [**한국 서비스 운영자**](service_operator.md)
-  
-## 해외사업 그룹 
+## 해외&IP사업 그룹 
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
  - [**한-영 번역 Editor**](US_translator_editor.md)
- - [**미국 해외사업 담당자**](US_business_operations.md)
+ - [**IP사업개발 담당자**](IP_Biz.md)
 
 ## 개발 그룹 
  - [**모바일&웹 QA**](QA.md)
@@ -34,8 +37,6 @@
  - [**프론트 웹 개발자**](biz_front_develop.md)
  - [**안드로이드 개발자**](android_develop.md)
 
-## 사업 그룹 
- - [**IP사업개발 담당자**](IP_Biz.md)
  
  
 ## 공통 지원자격 & 우대사항
