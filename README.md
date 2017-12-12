@@ -15,9 +15,6 @@
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군 명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
 
-## 경영지원 그룹 
- - [**법무리스크 관리 담당자**](Legal_RM.md)
-
 
 ## 서비스실행&운영 그룹 
  - [**고객 지원 담당자**](customer_relations.md)
@@ -28,11 +25,9 @@
 ## 해외&IP사업 그룹 
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
- - [**한-영 번역 Editor**](US_translator_editor.md)
  - [**IP사업개발 담당자**](IP_Biz.md)
 
 ## 개발 그룹 
- - [**모바일&웹 QA**](QA.md)
  - [**백엔드 개발자**](biz_backend_develop.md)
  - [**프론트 웹 개발자**](biz_front_develop.md)
  - [**안드로이드 개발자**](android_develop.md)
