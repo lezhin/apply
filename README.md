@@ -146,5 +146,4 @@
 - [‘재미있는 웹툰은 돈을 내고서라도 본다!’ 억대 연봉 웹툰 작가들의 요람 레진코믹스 - [플래텀] ](http://platum.kr/archives/15110)
 - [레진코믹스 "네이버·다음 웹툰 비켜!" - [전자신문] ](http://www.etnews.com/news/contents/contents/2814626_1487.html)
 - [레진코믹스 최초 인터뷰: 레진과 구루, 유료 웹툰 서비스를 시작하다 - [슬로우뉴스]](http://slownews.kr/11108)
-- [레진코믹스를 시작하며 by [레진엔터테인먼트 CEO 레진]](http://lezhin.tistory.com/1072)
 - [새로운 시작을 합니다 - 레진코믹스 by [레진엔터테인먼트 CTO 구루]](http://xguru.net/1362)
