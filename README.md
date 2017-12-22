@@ -19,6 +19,7 @@
 ## 서비스실행&운영 그룹 
  - [**한국 서비스 운영자**](service_operator.md)
  - [**결제 서비스 기획자**](billing_service.md)
+ - [**작가 커뮤이케이션 담당자**](PR_Com_specialist.md)
   
 
 ## 해외&IP사업 그룹 
