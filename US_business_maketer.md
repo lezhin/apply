@@ -14,7 +14,7 @@
 ## 담당업무
 
 - 온라인/디지털 광고 캠페인 기획/집행 (페이스북, 구글, 유튜브, 트위터, 인스타그램 등)
-- 온오프라인 마케팅 프로모션 기획/운영 **[참고 기사](http://www.edaily.co.kr/news/news_detail.asp?newsId=01787606615994192&mediaCodeNo=257)**
+- 온오프라인 마케팅 프로모션 기획/운영 **([참고 기사](http://www.edaily.co.kr/news/news_detail.asp?newsId=01787606615994192&mediaCodeNo=257))**
 - 브랜드 보이스 설정 및 마케팅 커뮤니케이션 관리 
 - 소셜미디어 모니터링 및 시장 조사
 
