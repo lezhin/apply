@@ -26,10 +26,10 @@
   
 
 ## 해외&IP사업 그룹 
- - [**미국 해외사업 담당자**](US_business_operations.md)
+ - [**미국 해외사업 마케터**](US_business_maketer.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
- - [**IP사업개발 담당자**](IP_Biz.md)
+ - [**IP 사업개발 담당자**](IP_Biz.md)
 
 
 ## 개발 그룹 
