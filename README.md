@@ -27,6 +27,7 @@
 
 ## 해외&IP사업 그룹 
  - [**미국 해외사업 마케터**](US_business_maketer.md)
+ - [**미국 서비스 운영자**](US_Operation.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
  - [**IP 사업개발 담당자**](IP_Biz.md)
@@ -35,7 +36,7 @@
 ## 개발 그룹 
  - [**백엔드 개발자**](biz_backend_develop.md)
  - [**프론트 웹 개발자**](biz_front_develop.md)
- - [**안드로이드 개발자**](android_develop.md)
+ 
 
  
  
