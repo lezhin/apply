@@ -21,17 +21,15 @@
 
 ## 서비스실행&운영 그룹 
  - [**한국 서비스 운영자**](service_operator.md)
- - [**결제 서비스 기획자**](billing_service.md)
- - [**작가 커뮤이케이션 담당자**](PR_Com_specialist.md)
-  
-
-## 해외&IP사업 그룹 
- - [**미국 해외사업 마케터**](US_business_maketer.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
+ - [**결제 서비스 기획자**](billing_service.md)
+ - [**작가 커뮤이케이션 담당자**](PR_Com_specialist.md)
  - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
- - [**IP 사업개발 담당자**](IP_Biz.md)
 
+## 사업 그룹 
+ - [**미국 해외사업 마케터**](US_business_maketer.md)
+ 
 
 ## 개발 그룹 
  - [**백엔드 개발자**](biz_backend_develop.md)
