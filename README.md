@@ -33,6 +33,7 @@
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**웹개발팀 웹개발자**](web_develop.md)
  - [**서비스개발팀 백엔드개발자**](backend_develop.md) 
+ - [**모바일 & 웹 QA**](qa.md) 
 
  
  
