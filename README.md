@@ -15,17 +15,12 @@
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군 명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
 
-## 경영지원 그룹 
- - [**법무리스크 관리 담당자**](Legal_RM.md)
-
 
 ## 서비스실행&운영 그룹 
  - [**한국 서비스 운영자**](service_operator.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
- - [**결제 서비스 기획자**](billing_service.md)
- - [**작가 커뮤이케이션 담당자**](PR_Com_specialist.md)
- - [**한-일 웹툰 제작 PM**](JP_translator_pm.md)
+ - [**결제 서비스 기획자**](billing_service.md) 
 
 
 ## 개발 그룹 
