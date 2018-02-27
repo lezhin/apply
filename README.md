@@ -16,7 +16,7 @@
 
 ## 콘텐츠 생성 그룹 
  - [**웹툰 PD**](webtoon_pd.md)
- - [**일한 웹툰 제작PM**](JP_translator_pm.md)
+ - [**한일 웹툰 제작PM**](JP_translator_pm.md)
 
 
 ## 서비스실행&운영 그룹 
