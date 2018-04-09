@@ -14,23 +14,15 @@
 
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군 명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
-## 경영지원 그룹 
- - [**사내 변호사**](Legal_lawyer.md)
- 
 
-## 콘텐츠 생성 그룹 
+ - [**사내 변호사**](Legal_lawyer.md)
  - [**웹툰 PD**](webtoon_pd.md)
  - [**한일 웹툰 제작PM**](JP_translator_pm.md)
-
-
-## 서비스실행&운영 그룹 
+ - [**온라인마케터**](online_maketer.md)
  - [**한국 서비스 운영자**](service_operator.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
  - [**결제 서비스 기획자**](billing_service.md) 
-
-
-## 개발 그룹 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**웹개발팀 웹개발자**](web_develop.md)
