@@ -17,7 +17,8 @@
 
  - [**사내 변호사**](Legal_lawyer.md)
  - [**웹툰 PD**](webtoon_pd.md)
- - [**한일 웹툰 제작PM**](JP_translator_pm.md)
+ - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
+ - [**한-영 번역 에디터**](US_translator_editor.md)
  - [**온라인마케터**](online_maketer.md)
  - [**한국 서비스 운영자**](service_operator.md)
  - [**미국 서비스 운영자**](US_Operation.md)

@@ -4,57 +4,68 @@
 
 레진코믹스는 **글로벌 콘텐츠 플랫폼**을 지향하고 있으며, 향후 서비스 중인 콘텐츠의 번역 범위를 지속적으로 확대하고 있습니다. 
 레진코믹스의 핵심 역량인 웹툰을 로컬라이징하여 영어권 독자들에게 양질의 웹툰을 전달하기위해 노력하고 있습니다. 
-번역 기술자가 아닌 만화에 대한 식견을 갖춘 **한영 번역 Editor**를 모십니다. 	
+번역 기술자가 아닌 만화에 대한 식견을 갖춘 **한-영 번역 에디터**를 모십니다. 	
+
+
+Lezhin Comics is looking to add in-house Korean-English Translation editors!
+We are a Korean start-up focused on bringing the best webtoon content to readers around the world. We offer a variety of genres that range from action, sci-fi, BL, GL, mature, and everything in between. 
+Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.* If you are not an avid reader, what are you doing here? 
+
  
 
 ## 채용분야 
 
-- 한영 번역 Editor (신입/경력 무관)
+- 한-영 번역 에디터 (신입/경력 무관)
 
 
 ## 담당업무
 
-- 한영 작품의 품질 관리
-  - 외주 번역자가 진행한 번역 감수
-  - 외주 번역 업무 일정 및 품질 관리
-  - 원고 업로드
-- 운영 업무 지원
+- Work closely with translators to create appropriate translation and localization strategies
+- Manage said translators for consistency and quality
+- Cross-check original Korean text with English translation to catch mistranslations(running the gamut from incorrect information [e.g. 케이크  bread], to nuance and voice)
+- Pinpoint and fix clunky English dialogue and narrative
+- Edit translations up to Lezhin standards
 
 
 ## 지원자격 (필수 조건)
 
-- 원어민 또는 원어민 근접 수준의 번역 및 의사소통 능력
-- 꼼꼼함과 책임감
+- An advanced to native understanding of Korean, with advanced writing skills in English.
+- You must feel comfortable working with a range of Korean genre fiction including romance, high fantasy, and science fiction.
+- You should know the difference between 직역 and 의역, and when it is appropriate to implement either strategy.
+- We work in Photoshop, so you should also feel comfortable catching typos and mistakes without the aid of spell check (don’t worry if you’re not skilled in Photoshop – we can teach you!).
+- A lover of webtoons and comics
 
 
 ## 우대사항
 
-- 한영/영한 번역 업무 수행 경험 (Fiction 번역 경험)
-- 디자인툴 (포토샵) 가능자
-- IT, 콘텐츠,마케팅 업계 근무 경험
-- 만화를 좋아하는 분
+- A background in non-technical translation
+- A background and/or interest in fiction writing
+- Professional editing experience
+
 
 
 ## 제출서류 및 접수방법
 
-아래 서류는 모두 필수입니다. 파일형식은 PDF 를 추천합니다.
+아래 서류는 모두 필수입니다. 파일형식은 PDF ㅍ입니다. 
 
-- 이력서 :  국문/영문 각 1부씩 
-- 커버레터 : 국문/영문 각 1부씩  (번역/작문 경험 포함하여 작성)
-- 번역/작문 샘플 (둘 중 선택)
-  - 웹툰 1회 분량과 신문기사 1개 or 번역/작문 포트폴리오 
+- Resume (English and Korean)
+- Cover Letter (English and Korean)
+- A sample translation of at least one episode from the following:
+   - 김철수씨 이야기 / 모기전쟁 / 세워요 기사님! / 아람이랑 삽니다! / 하루의 하루
 - 접수방법: **job@lezhin.com** 으로 보내주세요.
-- 이력서는 내부에 회람되기 때문에, 희망 연봉 제시 시 **메일 본문**에 적어주세요.
+- 이력서는 내부에 회람되기 때문에, 연봉 제시 시 **메일 본문**에 적어주세요.
 
 
 ## 채용절차 
 
-- 1차 서류전형
-- 2차 실무면접 (1차 서류전형 통과 시)
-- 3차 임원면접 (2차 실무면접 통과 시)
+- 1차 서류전형 (과제 미네출 시 서류전형에 통과되지 않음)
+- 2차 실무면접 (면접 후 Editing Test가 있음)
+- 3차 임원면접 
 
 
 ## 기타사항 
+Our company atmosphere is casual, and the Editing team often communicates in English. However, all official in-company communication is conducted in Korean, and communication with anyone outside of the team must be conducted in Korean. Some of the benefits you can expect: 
+- Note: We do not sponsor visas
 - [**근무조건 및 복리후생**](https://github.com/lezhin/apply/blob/master/README.md)
 - 지원자의 개인 정보는 이번 채용 전형의 참고 자료로만 활용하고 바로 파기됩니다.
 - 면접 결과는 전화 혹은 이메일로 개별 안내해드립니다.
