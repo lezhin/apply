@@ -53,7 +53,7 @@ Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.
 - A sample translation of at least one episode from the following:
    - 김철수씨 이야기 / 모기전쟁 / 세워요 기사님! / 아람이랑 삽니다! / 하루의 하루
 - 접수방법: **job@lezhin.com** 으로 보내주세요.
-- 이력서는 내부에 회람되기 때문에, 연봉 제시 시 **메일 본문**에 적어주세요.
+- 이력서는 내부에 회람되기 때문에, 연봉을 기재할 경우 **메일 본문**에 적어주세요.
 
 
 ## 채용절차 
