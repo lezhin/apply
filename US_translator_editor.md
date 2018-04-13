@@ -46,7 +46,7 @@ Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.
 
 ## 제출서류 및 접수방법
 
-아래 서류는 모두 필수입니다. 파일형식은 PDF ㅍ입니다. 
+아래 서류는 모두 필수입니다. 파일형식은 PDF 입니다. 
 
 - Resume (English and Korean)
 - Cover Letter (English and Korean)
@@ -58,7 +58,7 @@ Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.
 
 ## 채용절차 
 
-- 1차 서류전형 (과제 미네출 시 서류전형에 통과되지 않음)
+- 1차 서류전형 (과제 미제출 시 서류전형에 통과되지 않음)
 - 2차 실무면접 (면접 후 Editing Test가 있음)
 - 3차 임원면접 
 
