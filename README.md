@@ -20,6 +20,7 @@
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
  - [**한-영 번역 에디터**](US_translator_editor.md)
  - [**온라인마케터**](online_maketer.md)
+ - [**비쥬얼 디자이너**](visual_designer.md)
  - [**한국 서비스 운영자**](service_operator.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**일본 서비스 운영자**](JP_Operation.md)
