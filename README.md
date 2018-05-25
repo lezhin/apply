@@ -15,6 +15,7 @@
 저희와 함께하실 분들을 모십니다! 아래 안내된 직군 명을 클릭하면 상세한 채용공고를 확인할 수 있습니다. 
 
 
+ - [**웹툰 PD**](webtoon_pd.md)
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
  - [**한-영 번역 에디터**](US_translator_editor.md)
  - [**온라인마케터**](online_maketer.md)
