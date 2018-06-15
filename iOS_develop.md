@@ -15,20 +15,20 @@
 
 - 업무 도구: Jira, Confluence, github, slack 사용
 - 개발 과정에서 서로 **코드 리뷰** 진행
-  - github에서 pull request를 주고 받는 **온라인 코드 리뷰** 진행
-  - 필요에 따라 **오프라인 코드 리뷰**를 통해 서로의 개발에 이해를 도움
+- github에서 pull request를 주고 받는 **온라인 코드 리뷰** 진행
+- 필요에 따라 **오프라인 코드 리뷰**를 통해 서로의 개발에 이해를 도움
 - 앱은 다음 라이브러리 및 언어를 사용
-  - 언어: Objective-c
-  - API/네트워크: AFNetworking
-  - 이미지 캐시/다운로드 및 표시: SDWebImage
+  - 언어: Objective-c(제거중), Swift(확장중)
+  - API/네트워크: AFNetworking, Alamofire
+  - 이미지 캐시/다운로드 및 표시: SDWebImage, Kingfisher
   - 오픈소스 의존성 관리: Cocoapods
-  - 통계 : Google Analytics, Fabric, Facebook Analytics, Snowplow
+  - 통계 : Google Analytics, Fabric, Facebook Analytics
  - 네트워킹 모듈은 **LezhinSDK**라는 비공개 Cocoa Touch Static Library로 관리
 
 
 ## 지원자격 (필수 조건)
 
-- Objective-c 개발 언어에 능숙하신 분
+- Objective-c를 이해하시고, Swift 개발 언어로 개발하는걸 좋아하시는 분
 - SDK/API 검색으로 서비스 코드 작성 및 수정이 능숙하신 분
 - 상용 서비스 및 제품 개발 참여해보신 분
 - 합리적인 수준의 일정을 산정할 수 있는 분
@@ -36,7 +36,7 @@
 - 새로운 언어에 대한 거부감이 없으신 분
 - 새로운 기술에 대한 자료 수집과 학습을 스스로 하는 분
 - 회사일 이외에도 관심 분야 코딩을 즐기는 분
-- 다른 팀원의 성장에 도움을 줄 수 있는 분
+- 다른 팀원의 성장에 도움을 줄수 있는 분
 
 
 ## 우대사항

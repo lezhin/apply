@@ -27,8 +27,8 @@
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**웹개발팀 웹개발자**](web_develop.md)
  - [**서비스개발팀 백엔드개발자**](backend_develop.md) 
- - [**모바일 & 웹 QA**](QA.md) 
-
+ - [**iOS 개발자**](iOS_develop.md) 
+ - [**Android 개발자**](android_develop.md) 
  
  
 ## 공통 지원자격 & 우대사항
