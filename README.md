@@ -31,6 +31,7 @@
  - [**iOS 개발자**](iOS_develop.md) 
  - [**Android 개발자**](android_develop.md) 
  - [**Data Engineer**](data_Engineer.md)
+ - [**Learning & OD Manager**](Learning&OD_Manager.md)
  
  
 ## 공통 지원자격 & 우대사항
