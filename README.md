@@ -19,7 +19,6 @@
  - [**한-영 번역 에디터**](US_translator_editor.md)
  - [**US 온라인 마케터**](US_maketer.md)
  - [**미국 서비스 운영자**](US_Operation.md)
- - [**일본 서비스 운영자**](JP_Operation.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**모바일&웹 서비스 기획자**](service_planner.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
@@ -30,7 +29,7 @@
  - [**Android 개발자**](android_develop.md) 
  - [**Data Engineer**](data_Engineer.md)
  - [**Infra Engineer**](infra_engineer.md)
- - [**OD Manager**](OD_Manager.md)
+
  
  
 ## 공통 지원자격 & 우대사항
