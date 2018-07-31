@@ -16,16 +16,14 @@
 
  - [**웹툰 PD**](webtoon_pd.md)
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
- - [**한-영 번역 에디터**](US_translator_editor.md)
  - [**US 온라인 마케터**](US_maketer.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**결제 서비스 기획자**](billing_service.md) 
- - [**모바일&웹 서비스 기획자**](service_planner.md) 
+ - [**서비스 기획자**](service_planner.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**웹개발팀 웹개발자**](web_develop.md)
  - [**서비스개발팀 백엔드개발자**](backend_develop.md) 
- - [**iOS 개발자**](iOS_develop.md) 
  - [**Android 개발자**](android_develop.md) 
  - [**Data Engineer**](data_Engineer.md)
 
