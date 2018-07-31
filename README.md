@@ -28,7 +28,6 @@
  - [**iOS 개발자**](iOS_develop.md) 
  - [**Android 개발자**](android_develop.md) 
  - [**Data Engineer**](data_Engineer.md)
- - [**Infra Engineer**](infra_engineer.md)
 
  
  
