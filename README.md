@@ -16,7 +16,6 @@
 
  - [**웹툰 PD**](webtoon_pd.md)
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
- - [**US 온라인 마케터**](US_maketer.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**서비스 기획자**](service_planner.md) 
