@@ -18,7 +18,6 @@
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**결제 서비스 기획자**](billing_service.md) 
- - [**서비스 기획자**](service_planner.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**웹개발팀 웹개발자**](web_develop.md)
