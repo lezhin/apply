@@ -1,4 +1,4 @@
-안녕하세요!
+﻿안녕하세요!
 
 
 **레진엔터테인먼트**는 프리미엄 웹툰 서비스 [**레진코믹스**](http://www.lezhin.com)를 운영하는 글로벌 콘텐츠 기업입니다.
@@ -16,7 +16,6 @@
 
  - [**웹툰 PD**](webtoon_pd.md)
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
- - [**미국 서비스 운영자**](US_Operation.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
