@@ -14,6 +14,8 @@
  
 모집 분야 및 상세 안내는 아래 **직군명**을 클릭해주세요.
 
+ - [**US 사업부 총괄**](us__business_manager.md)
+ - [**한국 전략실행 중간관리자**](kr_strategy_execution.md)
  - [**웹툰 PD**](webtoon_pd.md)
  - [**US 온라인 마케터**](US_maketer.md)
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
