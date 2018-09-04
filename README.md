@@ -14,10 +14,13 @@
  
 모집 분야 및 상세 안내는 아래 **직군명**을 클릭해주세요.
 
- - [**한국 전략실행 중간관리자**](kr_strategy_execution.md)
- - [**미국 사업부 총괄**](us_business_manager.md)
+ - [**한국 전략실행 팀장**](kr_strategy_execution.md)
+ - [**미국 사업부 그룹장**](us_business_manager.md)
+ - [**퍼포먼스마케팅 그룹장**](marketing group_leader.md)
+ - [**JP 온모바일 팀장**](jp_onmobile_marketing_leader.md)
+ - [**JP 온라인 마케터**](jp_onmobile_maketer.md)
+ - [**US 온라인 마케터**](US_onmobile_maketer.md)
  - [**웹툰 PD**](webtoon_pd.md)
- - [**US 온라인 마케터**](US_maketer.md)
  - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
