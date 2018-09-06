@@ -26,7 +26,6 @@
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
- - [**서비스개발팀 백엔드개발자**](backend_develop.md) 
  - [**Android 개발자**](android_develop.md) 
  - [**Data Engineer**](data_Engineer.md)
 
