@@ -22,7 +22,7 @@
  - [**JP 온라인 마케터**](jp_onmobile_maketer.md)
  - [**US 온라인 마케터**](US_onmobile_maketer.md)
  - [**웹툰 PD**](webtoon_pd.md)
- - [**한-일 웹툰 제작PM**](JP_translator_pm.md)
+ - [**한-일 웹툰 로컬라이징 PM**](JP_translator_pm_ver2.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
