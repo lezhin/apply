@@ -19,12 +19,11 @@
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**퍼포먼스마케팅 그룹장**](marketing_group_leader.md)
  - [**JP 온모바일 팀장**](jp_onmobile_marketing_leader.md)
- - [**JP 온라인 마케터**](jp_onmobile_maketer.md)
- - [**US 온라인 마케터**](US_onmobile_maketer.md)
- - [**웹툰 PD**](webtoon_pd.md)
+ - [**JP 마케터**](jp_onmobile_maketer.md)
+ - [**US 마케터**](US_onmobile_maketer.md)
  - [**한-일 웹툰 로컬라이징 PM**](JP_translator_pm_ver2.md)
  - [**결제 서비스 기획자**](billing_service.md) 
- - [**Biz.개발팀 웹개발자**](biz_front_develop.md)
+ - [**Biz.개발팀 프론트엔드개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**Android 개발자**](android_develop.md) 
  - [**Data Engineer**](data_Engineer.md)
@@ -66,13 +65,14 @@
 - **임직원 단체 상해보험 가입** (배우자,자녀 포함)
 - 매년 종합 건강검진 지원
 - **점심/저녁 식대 지원 (개인별 법인카드 발급)**
+- **사내 카페테리아 무한무료 이용(커피, 음료, 간식, 부식)
 - **연간 총 120만원** 문화비 지원 (도서, 영화, 음악, 장비구입, 운동 등)
 - 최고급 장비와 환경
   - **맥북프로 레티나 (또는 동급 윈도우용 노트북) + 27인치 모니터**
   - 서서 일할 수 있도록 높낮이 조절 가능한 **퍼시스 모션데스크(전동책상)**
   - 장시간 앉아 있어도 편한 **허먼밀러 에어론(Aeron)**
 - 업무 참고도서 및 개발서적 구입 
-- 커피, 간식, 부식, 음료 무한지원
+
 
 
 ## 레진엔터테인먼트 연혁 / 수상 
