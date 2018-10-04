@@ -23,6 +23,7 @@
  - [**US 마케터**](US_onmobile_maketer.md)
  - [**한-일 웹툰 로컬라이징 PM**](JP_translator_pm_ver2.md)
  - [**결제 서비스 기획자**](billing_service.md) 
+ - [**서비스개발팀 백엔드개발자**](backend_develop.md)
  - [**Biz.개발팀 프론트엔드개발자**](biz_front_develop.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop.md)
  - [**Android 개발자**](Android_Developer181002.md) 
