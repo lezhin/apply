@@ -26,7 +26,6 @@
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop_5y.md)
  - [**Android 개발자**](Android_Developer181002.md) 
  - [**iOS 개발자**](iOS_Developer181002.md) 
- - [**Data Engineer**](data_Engineer.md)
 
  
  
