@@ -17,7 +17,6 @@
  - [**미국 사업부 그룹장**](us_business_manager.md)
  - [**한국 전략실행 팀장**](kr_strategy_execution.md)
  - [**미국 서비스 운영자**](US_Operation.md)
- - [**JP 온모바일 팀장**](jp_onmobile_marketing_leader.md)
  - [**JP 마케터**](jp_onmobile_maketer.md)
  - [**US 마케터**](US_onmobile_maketer.md)
  - [**결제 서비스 기획자**](billing_service.md) 
