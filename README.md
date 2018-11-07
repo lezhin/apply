@@ -14,14 +14,10 @@
  
 모집 분야 및 상세 안내는 아래 **직군명**을 클릭해주세요.
 
- - [**미국 사업부 그룹장**](us_business_manager.md)
- - [**한국 전략실행 팀장**](kr_strategy_execution.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**JP 마케터**](jp_onmobile_maketer.md)
- - [**US 마케터**](US_onmobile_maketer.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**서비스개발팀 백엔드개발자**](backend_develop.md)
- - [**Biz.개발팀 프론트엔드개발자**](biz_front_develop_5y.md)
  - [**Biz.개발팀 백엔드개발자**](biz_backend_develop_5y.md)
  - [**Android 개발자**](Android_Developer181002.md) 
  - [**iOS 개발자**](iOS_Developer181002.md) 
@@ -110,6 +106,10 @@
 
 
 ## 언론에 비친 레진엔터테인먼트 / 레진코믹스
+- [레진코믹스, '제4회 세계만화공모전' 개최 - [지디넷코리아]](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20181102101123&type=det&re=zdk)
+- [레진코믹스, 웹툰 플랫폼 최초로 모든 독자에게 각기 다른 '서비스 홈 화면' 구성' - [서울경제]](https://www.sedaily.com/NewsView/1S3A4JTDSD)
+- [레진코믹스, 마블 제치고 구글플레이 만화매출 1위 , '개인화·다양화·세계화 가속' - [매일경제]](http://news.mk.co.kr/newsRead.php?year=2018&no=461405)
+- [지난해 웹툰 1759편, 작가 3천명 활동·레진코믹스 최고 - [뉴시스]](http://www.newsis.com/view/?id=NISX20180305_0000242953&cID=10701&pID=10700)
 - [레진 웹툰 <김철수씨 이야기> ‘2017 대한민국 만화대상'문화체육관광부 장관상 수상 - [서울경제]](http://entertain.naver.com/read?oid=011&aid=0003178537)
 - [첫 제작 영화 <밤치기> ‘제22회 부산국제영화제’ 2관왕 수상 - [서울경제]](http://www.sedaily.com/NewsView/1OMEZD2CKD)
 - [레진 웹툰 <킬링 스토킹> 이탈리아 ‘루카 만화축제’ 현장에서 뜨거운 호응 - [서울경제]](http://www.sedaily.com/NewsView/1ONH3350K9)
