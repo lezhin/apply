@@ -14,6 +14,7 @@
  
 모집 분야 및 상세 안내는 아래 **직군명**을 클릭해주세요.
 
+ - [**한국 전략 실행 팀장**](kr_strategy_execution.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**JP 마케터**](jp_onmobile_maketer.md)
  - [**결제 서비스 기획자**](billing_service.md) 
