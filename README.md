@@ -18,7 +18,6 @@
  - [**한-영 에디터**](US_translator_pm.md)
  - [**한국 전략 실행 팀장**](kr_strategy_execution.md)
  - [**미국 서비스 운영자**](US_Operation.md)
- - [**JP 마케터**](jp_onmobile_maketer.md)
  - [**결제 서비스 기획자**](billing_service.md) 
  - [**모바일/웹 서비스 기획자**](service_moblie_web_service_planner.md) 
  - [**서비스개발팀 백엔드개발자**](backend_develop.md)
@@ -26,7 +25,6 @@
  - [**Biz.개발팀 프론트엔드개발자**](biz_front_develop_5y.md)
  - [**Android 개발자**](android_develop_2018_11.md) 
  - [**iOS 개발자**](iOS_develop_2018_11.md) 
- - [**Data Engineer**](data_Engineer.md) 
  
  
 ## 공통 지원자격 & 우대사항
