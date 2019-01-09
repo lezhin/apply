@@ -19,9 +19,8 @@
  - [**한국 전략 실행 팀장**](kr_strategy_execution.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**모바일/웹 서비스 기획자**](service_moblie_web_service_planner.md) 
- - [**서비스개발팀 백엔드개발자**](backend_develop.md)
- - [**Biz.개발팀 백엔드개발자**](biz_backend_develop_5y.md)
- - [**Biz.개발팀 프론트엔드개발자**](biz_front_develop_5y.md)
+ - [**백엔드개발자**](biz_backend_develop_5y.md)
+ - [**프론트엔드개발자**](biz_front_develop_5y.md)
  - [**Android 개발자**](android_develop_2018_11.md) 
  - [**iOS 개발자**](iOS_develop_2018_11.md) 
  
