@@ -1,4 +1,4 @@
-안녕하세요!
+﻿안녕하세요!
 
 프리미엄 웹툰 서비스 - "**[레진코믹스](http://www.lezhin.com)**" 를 만들고 있는 **레진엔터테인먼트**입니다.
 
@@ -50,8 +50,6 @@ Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.
 
 - Resume (English and Korean)
 - Cover Letter (English and Korean)
-- A sample translation of at least one episode from the following:
-   - 김철수씨 이야기 / 모기전쟁 / 세워요 기사님! / 아람이랑 삽니다! / 하루의 하루
 - 접수방법: **job@lezhin.com** 으로 보내주세요.
 - 이력서는 내부에 회람되기 때문에, 연봉을 기재할 경우 **메일 본문**에 적어주세요.
 
