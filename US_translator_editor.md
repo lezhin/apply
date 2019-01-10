@@ -56,9 +56,10 @@ Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.
 
 ## 채용절차 
 
-- 1차 서류전형 (과제 미제출 시 서류전형에 통과되지 않음)
-- 2차 실무면접 (면접 후 Editing Test가 있음)
-- 3차 임원면접 
+- 1차 서류전형
+- 2차 과제전형(웹툰 번역)
+- 3차 실무면접
+- 4차 임원면접 
 
 
 ## 기타사항 
