@@ -15,7 +15,7 @@
 모집 분야 및 상세 안내는 아래 **직군명**을 클릭해주세요.
 
  - [**JP 시니어 마케터**](jp_onmobile_Sr_marketer.md)
- - [**한-영 에디터**](US_translator_pm.md)
+ - [**한-영 에디터**](US_translator_editor.md)
  - [**한국 전략 실행 팀장**](kr_strategy_execution.md)
  - [**미국 서비스 운영자**](US_Operation.md)
  - [**모바일/웹 서비스 기획자**](service_moblie_web_service_planner.md) 
