@@ -22,7 +22,6 @@
  - [**백엔드개발자**](biz_backend_develop_5y.md)
  - [**프론트엔드개발자**](biz_front_develop_5y.md)
  - [**Android 개발자**](android_develop_2018_11.md) 
- - [**iOS 개발자**](iOS_develop_2018_11.md) 
  
  
 ## 공통 지원자격 & 우대사항
