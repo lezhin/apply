@@ -16,10 +16,7 @@
 
  - [**JP 시니어 마케터**](jp_onmobile_Sr_marketer.md)
  - [**한-영 에디터**](US_translator_editor.md)
- - [**디자이너**](US_designer.md)
- - [**한국 서비스 운영자**](kr_strategy_execution_Operation.md)
- - [**미국 서비스 운영자**](US_Operation.md)
- - [**모바일/웹 서비스 기획자**](service_moblie_web_service_planner.md) 
+ - [**US 서비스 운영 디자이너**](US_designer.md)
  - [**백엔드개발자**](biz_backend_develop_5y.md)
  - [**프론트엔드개발자**](biz_front_develop_5y.md)
  - [**Android 개발자**](android_develop_2018_11.md)  
