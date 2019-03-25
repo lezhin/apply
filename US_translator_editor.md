@@ -50,7 +50,7 @@ Editors at Lezhin are perfectionists, have an eye for detail, and *love stories.
 
 - Resume (English and Korean)
 - Cover Letter (English and Korean)
-- 접수방법: **job@lezhin.com** 으로 보내주세요.
+- 접수방법: **https://lezhin.recruiter.co.kr** 로 지원해주세요.
 - 이력서는 내부에 회람되기 때문에, 연봉을 기재할 경우 **메일 본문**에 적어주세요.
 
 
