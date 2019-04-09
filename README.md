@@ -14,8 +14,8 @@
  
 모집 분야 및 상세 안내는 아래 **직군명**을 클릭해주세요.
 
- - [**시니어 마케터**](digital marketer(JP).md)
- - [**브랜드 마케터**](Brand marketer.md)
+ - [**시니어 마케터**](digital_marketer(JP).md)
+ - [**브랜드 마케터**](Brand_marketer.md)
  - [**한국 서비스 운영자**](kr_strategy_execution_Operation.md)
  - [**한-영 에디터**](US_translator_editor.md)
  - [**US 서비스 운영 디자이너**](US_designer.md)
