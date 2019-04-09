@@ -18,7 +18,6 @@
  - [**브랜드 마케터**](Brand_marketer.md)
  - [**한국 서비스 운영자**](kr_strategy_execution_Operation.md)
  - [**한-영 에디터**](US_translator_editor.md)
- - [**US 서비스 운영 디자이너**](US_designer.md)
  - [**Android 개발자**](android_develop_2018_11.md)  
  - [**Data Engineer**](data_Engineer.md)
  
